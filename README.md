@@ -147,7 +147,7 @@ This significantly improved operational efficiency for the RP server ecosystem.
 
 ```bash
 # Clone repository
-git clone https://github.com/Pranav722/lsreborn-project.git
+git clone https://github.com/rectoxjod/lsreborn-project.git
 
 # Navigate into project
 cd lsreborn-project
